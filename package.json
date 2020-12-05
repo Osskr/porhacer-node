@@ -1,0 +1,23 @@
+{
+  "name": "porhacer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osskr/porhacer-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osskr/porhacer-node/issues"
+  },
+  "homepage": "https://github.com/Osskr/porhacer-node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.1.1"
+  }
+}
